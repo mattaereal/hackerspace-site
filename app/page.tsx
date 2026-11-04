@@ -128,8 +128,8 @@ export default function Home() {
           aria-labelledby="contacto-titulo"
         >
           <p className="section-index">03 / DESCONECTAR</p>
-          <h2 id="contacto-titulo">Acercate al Nono.</h2>
-          <p>Conocé el proyecto y seguí las novedades de la casa más nerd de Tandil.</p>
+          <h2 id="contacto-titulo">Acercate al Nodo.</h2>
+          <p>Conocé el proyecto y seguí las novedades de nuestro espacio.</p>
           <div className="contact-links">
             <a
               className="button"
