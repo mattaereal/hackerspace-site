@@ -1,7 +1,7 @@
 name: Checks del workshop
 
 on:
-  workflow_dispatch:
+  [push]
 
 permissions:
   contents: read
